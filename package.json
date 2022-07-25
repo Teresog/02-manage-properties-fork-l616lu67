@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/null.02-manage-properties-fork-l616lu67",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve WWorV5Q9RfTnO2MlECrV --open"
+  }
+}
